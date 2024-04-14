@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://codup.co/wp-content/uploads/2021/08/full-stack-development.png)
 <h1 align="center">Hi 👋, I'm Karthik Jogi</h1>
 <h3 align="center">Aspiring MANG Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
