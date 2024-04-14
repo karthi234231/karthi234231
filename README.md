@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **jogikarthik123@gmail.com**
 
-- 📄 Know about my experiences (https://shorturl.at/impzK))
+- 📄 Know about my experiences [https://shorturl.at/impzK]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
