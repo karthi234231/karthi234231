@@ -8,13 +8,11 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/karthikjogi/](https://www.linkedin.com/in/karthikjogi/)
-
 - 💬 Ask me about **Android,MERN**
 
 - 📫 How to reach me **jogikarthik123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18WX0F_8lsWe1D48LIGnLQnv38qp1SOM9/view?usp=drive_link](https://drive.google.com/file/d/18WX0F_8lsWe1D48LIGnLQnv38qp1SOM9/view?usp=drive_link)
+- 📄 Know about my experiences (https://shorturl.at/impzK))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
