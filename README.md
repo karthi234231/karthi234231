@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jogikarthik123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18WX0F_8lsWe1D48LIGnLQnv38qp1SOM9/view?usp=drive_link](https://drive.google.com/file/d/18WX0F_8lsWe1D48LIGnLQnv38qp1SOM9/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1dugxQXtus7PIrLOaB58gcEMcnX5ZQRfo/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
