@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Karthik Jogi</h1>
-<h3 align="center">Aspiring MANG Engineer</h3>
-
-- 🌱 I’m currently learning **React Native**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/karthikjogi/](https://www.linkedin.com/in/karthikjogi/)
 
-- 💬 Ask me about **Android,MERN**
+- 💬 Ask me about **Java Full Stack**
 
 - 📫 How to reach me **jogikarthik123@gmail.com**
 
-- 📄 Know about my experiences ( resume ) : https://drive.google.com/file/d/1uwC7iLg8LH_axGe77N39_S-y-yAQyxDx/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
