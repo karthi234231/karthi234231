@@ -42,15 +42,6 @@ Deep learning model (MobileNet) · 92% accuracy on 50K+ images · Streamlit depl
 
 ---
 
-### Highlights
-
-- 🏆 **Top 1%** in DSA — GeeksforGeeks
-- ⭐ **5-Star** in Java & Python — HackerRank
-- 🥈 **Finalist** — Smart India Hackathon 2021 & 2022
-- ☁️ **AWS Certified** Developer Associate
-
----
-
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karthi234231&theme=github-dark-blue&hide_border=true)
