@@ -36,10 +36,6 @@ Practices       Agile · Scrum · Git
 
 ### Featured Projects
 
-**[Edify — E-Learning Platform](https://github.com/karthi234231)**
-Full-stack platform supporting 5K+ users · JWT auth · WebSockets · Spring Boot + React
-> Reduced API calls by 40% via real-time WebSocket updates
-
 **[Coffee Leaf Nutrient Deficiency Detection](https://github.com/karthi234231)**
 Deep learning model (MobileNet) · 92% accuracy on 50K+ images · Streamlit deployment
 > Improved model performance 40% through preprocessing & hyperparameter tuning
