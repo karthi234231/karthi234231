@@ -53,9 +53,9 @@ Deep learning model (MobileNet) · 92% accuracy on 50K+ images · Streamlit depl
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthi234231&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthi234231&layout=compact&theme=github_dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karthi234231&theme=github-dark-blue&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karthi234231&theme=github-compact&hide_border=true&area=true)
 
 </div>
 
