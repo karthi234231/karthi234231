@@ -1,20 +1,70 @@
-<h1 align="center">Hi 👋, I'm Karthik Jogi</h1>
+<div align="center">
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/karthikjogi/](https://www.linkedin.com/in/karthikjogi/)
+# Karthik Jogi
 
-- 💬 Ask me about **Java Full Stack**
+**Full Stack Developer · Java · Spring Boot · React · AWS**
 
-- 📫 How to reach me **jogikarthik123@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikjogi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/k_rthik)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white)](https://hackerrank.com/jogi_karthik)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/karthik_1)
 
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/karthikjogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthikjogi" height="30" width="40" /></a>
-<a href="https://instagram.com/karthii_k1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karthii_k1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jogi karthik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jogi karthik" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/k_rthik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="k_rthik" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/karthik_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="karthik_1" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### About
+
+Full stack developer building end-to-end products with **Spring Boot** on the backend and **React** on the frontend. Currently at **Cognizant** designing microservices, batch processing systems, and responsive UIs. B.Tech in Computer Science (CGPA 9.1) with Honours in AI from Vishnu Institute of Technology.
+
+---
+
+### Tech Stack
+
+```
+Languages       Java · Python · SQL
+Backend         Spring Boot · REST APIs · Microservices · Spring Batch
+Frontend        React.js · Next.js
+Databases       PostgreSQL · MySQL · Redis
+Cloud & DevOps  AWS · Docker · CI/CD
+Testing         JUnit · Mockito
+Practices       Agile · Scrum · Git
+```
+
+---
+
+### Featured Projects
+
+**[Edify — E-Learning Platform](https://github.com/karthi234231)**
+Full-stack platform supporting 5K+ users · JWT auth · WebSockets · Spring Boot + React
+> Reduced API calls by 40% via real-time WebSocket updates
+
+**[Coffee Leaf Nutrient Deficiency Detection](https://github.com/karthi234231)**
+Deep learning model (MobileNet) · 92% accuracy on 50K+ images · Streamlit deployment
+> Improved model performance 40% through preprocessing & hyperparameter tuning
+
+---
+
+### Highlights
+
+- 🏆 **Top 1%** in DSA — GeeksforGeeks
+- ⭐ **5-Star** in Java & Python — HackerRank
+- 🥈 **Finalist** — Smart India Hackathon 2021 & 2022
+- ☁️ **AWS Certified** Developer Associate
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthi234231&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthi234231&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>📬 jogikarthik123@gmail.com</sub>
+</div>
